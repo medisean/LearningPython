@@ -1,0 +1,1 @@
+spamName = 'this is a spam'

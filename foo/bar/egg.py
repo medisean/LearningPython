@@ -1,0 +1,1 @@
+eggName = 'this is egg'
